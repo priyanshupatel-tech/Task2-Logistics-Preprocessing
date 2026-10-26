@@ -1,0 +1,11 @@
+Shipment_ID,Distance_KM,Delivery_Time_Hours,Shipping_Cost,Delivery_Status
+101,10.0,2.0,100.0,On Time
+102,25.0,5.0,250.0,Delayed
+103,15.0,3.0,150.0,On Time
+104,,4.0,200.0,On Time
+105,40.0,,400.0,Delayed
+106,30.0,6.0,,On Time
+107,20.0,3.0,180.0,On Time
+108,35.0,7.0,350.0,Delayed
+108,35.0,7.0,350.0,Delayed
+110,500.0,48.0,5000.0,Delayed
